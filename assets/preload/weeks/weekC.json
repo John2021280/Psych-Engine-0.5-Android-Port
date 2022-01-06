@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"carol",
+			"carol",
+			[
+				186,
+				193,
+				255
+			]
+		],
+		[
+			"milly",
+			"carol",
+			[
+				186,
+				193,
+				255
+			]
+		],
+		[
+			"not blammed",
+			"carol",
+			[
+				186,
+				193,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "carol",
+	"weekName": "carol",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
